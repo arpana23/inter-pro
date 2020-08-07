@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/inter-pro/static/css/main.a636f2e1.chunk.css",
+    "main.js": "/inter-pro/static/js/main.9cb88902.chunk.js",
+    "main.js.map": "/inter-pro/static/js/main.9cb88902.chunk.js.map",
+    "runtime-main.js": "/inter-pro/static/js/runtime-main.f4df1ff1.js",
+    "runtime-main.js.map": "/inter-pro/static/js/runtime-main.f4df1ff1.js.map",
+    "static/css/2.1cf7c4bb.chunk.css": "/inter-pro/static/css/2.1cf7c4bb.chunk.css",
+    "static/js/2.4e5cd8f3.chunk.js": "/inter-pro/static/js/2.4e5cd8f3.chunk.js",
+    "static/js/2.4e5cd8f3.chunk.js.map": "/inter-pro/static/js/2.4e5cd8f3.chunk.js.map",
+    "index.html": "/inter-pro/index.html",
+    "precache-manifest.4679958b2f1a4dcfa441779e39711aba.js": "/inter-pro/precache-manifest.4679958b2f1a4dcfa441779e39711aba.js",
+    "service-worker.js": "/inter-pro/service-worker.js",
+    "static/css/2.1cf7c4bb.chunk.css.map": "/inter-pro/static/css/2.1cf7c4bb.chunk.css.map",
+    "static/css/main.a636f2e1.chunk.css.map": "/inter-pro/static/css/main.a636f2e1.chunk.css.map",
+    "static/js/2.4e5cd8f3.chunk.js.LICENSE.txt": "/inter-pro/static/js/2.4e5cd8f3.chunk.js.LICENSE.txt",
+    "static/media/Homesec.css": "/inter-pro/static/media/supplier-pc-img.2d8361e6.png",
+    "static/media/Works.css": "/inter-pro/static/media/bg_main.ec13b457.png",
+    "static/media/Home.css": "/inter-pro/static/media/exciting_img-12.860c2add.png",
+    "static/media/Footer.css": "/inter-pro/static/media/footer_bg.f87cdbd7.png",
+    "static/media/slick-theme.css": "/inter-pro/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4df1ff1.js",
+    "static/css/2.1cf7c4bb.chunk.css",
+    "static/js/2.4e5cd8f3.chunk.js",
+    "static/css/main.a636f2e1.chunk.css",
+    "static/js/main.9cb88902.chunk.js"
+  ]
+}
